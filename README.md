@@ -1,5 +1,7 @@
 # 📊 End-to-End E-Commerce Data Analytics Project (SQL & Tableau)
 
+![Dashboard Screenshot](https://github.com/kanha-d/End-to-End-Data-Analytics-Project-SQL-Tableau-Full-Course-2026/blob/main/complete-sql-tableau-project-raw-data-to-interactive-dashboard.jpg?raw=true)
+
 ## 📝 Project Overview
 This project focuses on evaluating e-commerce sales performance and customer behavior. The goal of this analysis is to identify key sales trends, customer segmentation, and product performance using SQL for data extraction and cleaning, followed by Tableau for interactive data visualization. 
 
